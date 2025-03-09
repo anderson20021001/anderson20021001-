@@ -1,116 +1,56 @@
-# 👨‍💻 Anderson Silva
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=header&fontSize=30&fontAligny=35&fontColor=fff"/>
 
-**`Analista de Dados e Desenvolvedor Web`**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Anderson+A.+S.+S;I'm+21+years+old;I+from+Brasil,+RJ;I+study+systems+development+at+Infnet;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Sou Anderson Silva, tenho 22 anos e sou apaixonado por tecnologia e análise de dados. Com experiência como desenvolvedor e analista de dados, busco sempre otimizar processos e gerar insights para decisões mais assertivas. Atualmente, estou focado em expandir meus conhecimentos em AWS e melhorar minhas habilidades em Machine Learning.
-
-📚 Cursando Engenharia de Software.  
-🔧 Ferramentas: SQL, Power BI, Python, Django, QlikSense, Tableau, Angular.
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/anderson01ass/">
-        <img 
-            alt="LinkedIn" 
-            title="Visite meu LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/anderson01ass">
-        <img 
-            alt="GitHub" 
-            title="Visite meu GitHub" 
-            src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
-    <a href="mailto:andersonassilva10@gmail.com">
-        <img 
-            alt="Email" 
-            title="Envie um e-mail" 
-            src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
-### 🔧 Ferramentas & Tecnologias
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="QlikSense" 
-    title="QlikSense"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qlik/qlik-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tableau" 
-    title="Tableau"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Angular" 
-    title="Angular"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=llMateusll&show_icons=true&count_private=true&hide_border=true&title_color=3CB371&icon_color=3CB371&text_color=c9d1d9&bg_color=0d1117" alt="Mateus Silva de Santana github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llMateusll&layout=compact&hide_border=true&title_color=3CB371&text_color=3CB371&bg_color=0d1117" />
+</div>
+<div align="center">                                                                                                              
+<h3>connect with me:</h3>
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=anderson01ass&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson01ass&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<a href="https://x.com/Anderso20858457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anderso20858457" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anderson01ass/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anderson01ass/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/andersonandre.ofc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mateusllsilva" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@andersonandre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="llShiroll #4743" height="30" width="40" /></a>
 </p>
+
+ 
+<h3>languages and tools:</h3>
+<p> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a> 
+
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+</a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> 
+</a>
+</p>
+
+
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=footer"/>  
+</div>
